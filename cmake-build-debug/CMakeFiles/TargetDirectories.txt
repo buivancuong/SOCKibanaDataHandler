@@ -1,0 +1,3 @@
+C:/Users/cuongbv/CLionProjects/KibanaDataHandler/cmake-build-debug/CMakeFiles/KibanaDataHandler.dir
+C:/Users/cuongbv/CLionProjects/KibanaDataHandler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cuongbv/CLionProjects/KibanaDataHandler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cuongbv/CLionProjects/KibanaDataHandler/Event.h
+iostream
+-
+string
+-
+
+C:/Users/cuongbv/CLionProjects/KibanaDataHandler/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+deque
+-
+utility
+-
+time.h
+-
+vector
+-
+boost/algorithm/string.hpp
+-
+windows.h
+-
+Event.h
+C:/Users/cuongbv/CLionProjects/KibanaDataHandler/Event.h
+
